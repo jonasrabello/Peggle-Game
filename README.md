@@ -5,5 +5,5 @@ The idea here is using Newton's Laws to predict motion. This program considers t
 
 https://youtu.be/EvrFdJReYRk
 
-<img src="Peggle Game.png" width="550" height="550">
-<img src="Peggle Game - Final.png" width="550" height="550">
+<img src="Peggle Game.png" width="800" height="600">
+<img src="Peggle Game - Final.png" width="800" height="600">
